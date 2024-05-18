@@ -1,0 +1,7 @@
+{
+    "diagnostics.globals": [
+        "keys",
+        "dapui",
+        "get_args"
+    ]
+}
